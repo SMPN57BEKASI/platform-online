@@ -6,19 +6,19 @@ const penilaianLinks = [
         title: "Kelas 7",
         description: "Penilaian Mata Pelajaran Kelas 7.",
         icon: "🧮",
-        url: "https://drive.google.com/"
+        url: "https://drive.google.com/drive/folders/1miTPIFMlieeZSvbOhbcngBG8aRSfmMoM?usp=sharing"
     },
     {
         title: "Kelas 8",
         description: "Penilaian Mata Pelajaran Kelas 8.",
         icon: "💻",
-        url: "https://drive.google.com/"
+        url: "https://drive.google.com/drive/folders/1h873Bn6biQnZ4_vuc8TeZChGtEknEQ0B?usp=sharing"
     },
     {
         title: "Kelas 9",
         description: "Penilaian Mata Pelajaran Kelas 9.",
         icon: "📋",
-        url: "https://drive.google.com/"
+        url: "https://drive.google.com/drive/folders/1vaAOuWmVCf2S8Pd2qkXHKDFtNOCwOkv6?usp=sharing"
     }
 ];
 
@@ -30,19 +30,19 @@ const perkembanganLinks = [
         title: "BK Kelas 7",
         description: "Penilaian BK kelas 7.",
         icon: "👀",
-        url: "https://drive.google.com/"
+        url: ""
     },
     {
         title: "BK Kelas 8",
         description: "Penilaian BK kelas 8",
         icon: "📒",
-        url: "https://drive.google.com/"
+        url: ""
     },
     {
         title: "BK Kelas 9",
         description: "Penilaian BK Kelas 9.",
         icon: "📈",
-        url: "https://drive.google.com/"
+        url: ""
     }
 ];
 
@@ -54,19 +54,19 @@ const laporanLinks = [
         title: "Rapor Kelas 7",
         description: "Link untuk nilai rapor siswa kelas 7.",
         icon: "📑",
-        url: "https://drive.google.com/"
+        url: "https://drive.google.com/drive/folders/1Jyz8zmwsb_TFhkHuaC3HDo5grscBT6_n?usp=sharing"
     },
     {
         title: "Rapor Kelas 8",
         description: "Link untuk nilai rapor siswa kelas 8.",
         icon: "📊",
-        url: "https://drive.google.com/"
+        url: "https://drive.google.com/drive/folders/1fQx6h1o9f93UUt2MiIH4OqPuasbp0-7a?usp=sharing"
     },
     {
         title: "Rapor Kelas 9",
         description: "Link untuk nilai rapor siswa kelas 9.",
         icon: "🖨️",
-        url: "https://drive.google.com/"
+        url: "https://drive.google.com/drive/folders/1c6aMp7uWVPgZVjy30CipcDcWIxXCTvf1?usp=sharing"
     }
 ];
 
@@ -78,25 +78,25 @@ const sumatifLinks = [
         title: "Sumatif Tengah Semester",
         description: "Semester Ganjil dan Genap.",
         icon: "🎯",
-        url: "https://drive.google.com/"
+        url: ""
     },
     {
         title: "Sumatif Akhir Semester",
         description: "Semester Ganjil.",
         icon: "📝",
-        url: "https://drive.google.com/"
+        url: ""
     },
     {
         title: "Sumatif Akhir Tahun",
         description: "Semester Genap",
         icon: "✅",
-        url: "https://drive.google.com/"
+        url: ""
     },
      {
         title: "Asesmen Sumatif Akhir Jenjang",
         description: "ASAJ Kelas 9.",
         icon: "📝",
-        url: "https://drive.google.com/"
+        url: ""
     },
 ];
 
