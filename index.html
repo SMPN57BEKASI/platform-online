@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruang Guru Online SMPN 57 Bekasi - Pusat Akses Dokumen</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts untuk tipografi modern -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <img src="assets/LOGO SMPN 57 KOTA BEKASI.png" alt="Logo Sekolah" class="logo-img">
+                <span class="logo-text">Ruang Guru Online SMPN 57 Bekasi</span>
+            </div>
+            <button class="mobile-toggle" id="mobile-toggle" aria-label="Toggle Menu">
+                ☰
+            </button>
+            <ul class="nav-links" id="nav-links">
+                <li><a href="#beranda">Beranda</a></li>
+                <li><a href="ujian-siswa.html" style="color: var(--primary); font-weight: 700;">Portal Ujian Online</a></li>
+                <li><a href="#dokumen">Dokumen</a></li>
+                <li><a href="#" id="nav-ruang-guru">Ruang Kerja Guru</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero" id="beranda">
+        <div class="hero-content">
+            <h1>Pusat Akses Dokumen <br><span class="highlight">dan Administrasi Guru</span></h1>
+            <p>Satu tempat untuk mengakses berbagai dokumen, administrasi, perangkat pembelajaran, dan arsip sekolah dengan mudah dan cepat.</p>
+        </div>
+    </header>
+
+    <!-- Platform Ujian (Featured Links) -->
+    <section class="featured-section" id="akses-cepat">
+        <div class="container">
+            <h2 class="section-title">Akses Cepat</h2>
+            <div class="featured-grid">
+                <a href="ujian-siswa.hmtl" class="featured-card" style="border: 2px solid var(--primapry); background-color: #f5f3ff;">
+                    <span class="featured-icon">📝</span>
+                    <h3 style="color: var(--primary);">Portal Ujian Siswa</h3>
+                    <p>Akses cepat ke Link Ulangan harian dan sumatif</p>
+                </a>
+                <a href="https://drive.google.com/" target="_blank" rel="noopener noreferrer" class="featured-card">
+                    <span class="featured-icon">📋</span>
+                    <h3>Administrasi Guru</h3>
+                    <p>Format jurnal dan presensi terbaru</p>
+                </a>
+                <a href="https://drive.google.com/" target="_blank" rel="noopener noreferrer" class="featured-card">
+                    <span class="featured-icon">📚</span>
+                    <h3>Perangkat Pembelajaran</h3>
+                    <p>CP, TP, ATP, dan Modul Ajar</p>
+                </a>
+                <a href="https://drive.google.com/" target="_blank" rel="noopener noreferrer" class="featured-card">
+                    <span class="featured-icon">📝</span>
+                    <h3>Dokumen Penilaian</h3>
+                    <p>Format e-Rapor dan rekap nilai</p>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Dashboard -->
+    <main class="dashboard-section" id="dokumen">
+        <div class="container">
+            <div class="dashboard-header">
+                <h2>Jelajahi Dokumen</h2>
+                <div class="search-box">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" id="searchInput" placeholder="Cari dokumen, folder, atau deskripsi...">
+                </div>
+            </div>
+
+            <!-- Filter Kategori -->
+            <div class="filter-container" id="filterContainer">
+                <button class="filter-btn active" data-filter="Semua">Semua</button>
+                <button class="filter-btn" data-filter="Perangkat Pembelajaran">Perangkat Pembelajaran</button>
+                <button class="filter-btn" data-filter="Administrasi">Administrasi</button>
+                <button class="filter-btn" data-filter="Dokumen Sekolah">Dokumen Sekolah</button>
+                <button class="filter-btn" data-filter="Penilaian">Penilaian</button>
+            </div>
+
+            <!-- Grid Drive Cards -->
+            <div class="drive-grid" id="driveGrid">
+                <!-- Card akan di-render melalui JavaScript disini -->
+            </div>
+
+            <!-- Empty State -->
+            <div class="empty-state" id="emptyState" style="display: none;">
+                <span class="empty-icon">📂</span>
+                <h3>Dokumen tidak ditemukan</h3>
+                <p>Coba gunakan kata kunci lain atau ubah filter pencarian Anda.</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer id="kontak">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <h3>Ruang Guru Online</h3>
+                    <p>Portal akses dokumen dan administrasi guru terpusat.</p>
+                </div>
+                <div class="footer-info">
+                    <p>&copy; 2026 SMP Negeri 58 Kota Bekasi.</p>
+                    <p>Dikelola oleh Tim Kurikulum & IT.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button id="backToTop" class="back-to-top" aria-label="Kembali ke atas">↑</button>
+
+    <script src="script.js"></script>
+</body>
+</html>

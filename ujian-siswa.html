@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Ujian Siswa - SMP Negeri 58</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body style="background-color: #f3f4f6;">
+    <!-- Navbar Khusus Ujian -->
+    <nav class="navbar" style="background-color: white;">
+        <div class="nav-container">
+            <div class="logo">
+                <span class="logo-icon">📝</span>
+                <span class="logo-text">Portal Ujian Siswa</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">← Kembali ke Beranda</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Header Ujian -->
+    <header class="hero" style="padding: 100px 20px 40px; background: linear-gradient(to right, #4f46e5, #4338ca); color: white;">
+        <div class="hero-content">
+            <h1 style="color: white; font-size: 2rem;">Asesmen & Ujian Online</h1>
+            <p style="color: #e0e7ff; font-size: 1rem; max-width: 600px; margin: 0 auto;">Pilih mata pelajaran dan kelas sesuai jadwal. Pastikan koneksi internet stabil sebelum mulai mengerjakan.</p>
+        </div>
+    </header>
+
+    <!-- Tata Tertib Singkat -->
+    <div class="container" style="margin-top: -20px; position: relative; z-index: 10;">
+        <div style="background: white; padding: 20px; border-radius: var(--radius); box-shadow: var(--shadow-md); display: flex; gap: 20px; flex-wrap: wrap; justify-content: space-around; text-align: center; border-left: 4px solid #f59e0b;">
+            <div>
+                <strong>⏱️ Waktu Terbatas</strong>
+                <p style="font-size: 0.85rem; color: var(--text-muted);">Kerjakan sesuai alokasi waktu.</p>
+            </div>
+            <div>
+                <strong>🚫 Dilarang Mencontek</strong>
+                <p style="font-size: 0.85rem; color: var(--text-muted);">Jujur itu hebat.</p>
+            </div>
+            <div>
+                <strong>📶 Cek Koneksi</strong>
+                <p style="font-size: 0.85rem; color: var(--text-muted);">Pastikan sinyal aman.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Daftar Link Ujian -->
+    <main class="dashboard-section" style="padding-top: 40px;">
+        <div class="container">
+            <h2 style="margin-bottom: 24px; font-size: 1.5rem;">Daftar Ujian Aktif</h2>
+            
+            <div class="drive-grid">
+                
+                <!-- Card Ujian kelas 7 -->
+                <div class="drive-card" style="border-top: 4px solid var(--primary);">
+                    <div class="card-header">
+                        <div class="card-icon">🧮</div>
+                        <div>
+                            <span class="card-category" style="color: #dc2626;">Kelas 7</span>
+                            <h3 class="card-title">Keterangan Mapel yang sedang diujikan</h3>
+                        </div>
+                    </div>
+                    <p class="card-desc">Kerjakan soal dengan teliti dan jujur.</p>
+                    <!-- Ganti link ini dengan link Google Forms/Quizizz ujian aslinya -->
+                    <a href="https://docs.google.com/forms/" target="_blank" rel="noopener noreferrer" class="btn-drive" style="background-color: var(--primary); color: white;">
+                        Mulai Ujian <span>↗</span>
+                    </a>
+                </div>
+
+                <!-- Card Ujian kelas 8 -->
+                <div class="drive-card" style="border-top: 4px solid var(--primary);">
+                    <div class="card-header">
+                        <div class="card-icon">💻</div>
+                        <div>
+                            <span class="card-category" style="color: #059669;">Kelas 8</span>
+                            <h3 class="card-title">Keterangan mapel yang sedang diujikan</h3>
+                        </div>
+                    </div>
+                    <p class="card-desc">Kerjakan soal dengan teliti dan jujur.</p>
+                    <a href="https://docs.google.com/forms/" target="_blank" rel="noopener noreferrer" class="btn-drive" style="background-color: var(--primary); color: white;">
+                        Mulai Ujian <span>↗</span>
+                    </a>
+                </div>
+
+                <!-- Card Ujian Kelas 9 -->
+                <div class="drive-card" style="border-top: 4px solid #f59e0b;">
+                    <div class="card-header">
+                        <div class="card-icon">🎨</div>
+                        <div>
+                            <span class="card-category" style="color: #d97706;">Kelas 9</span>
+                            <h3 class="card-title">Keterangan mapel yang sedang diujikan</h3>
+                        </div>
+                    </div>
+                    <p class="card-desc">Kerjakan soal dengan teliti dan jujur.</p>
+                    <a href="https://docs.google.com/forms/" target="_blank" rel="noopener noreferrer" class="btn-drive" style="background-color: var(--primary); color: white;">
+                        Mulai Ujian <span>↗</span>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer style="margin-top: 20px;">
+        <div class="container">
+            <div class="footer-content" style="justify-content: center; text-align: center;">
+                <p style="color: var(--text-muted); font-size: 0.9rem;">&copy; 2026 SMP Negeri 58 Kota Bekasi - Semangat Belajar!</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internal Ruang Guru - Penilaian & Akademik</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar" style="background-color: var(--primary);">
+        <div class="nav-container">
+            <div class="logo" style="color: white;">
+                <span class="logo-icon">🔒</span>
+                <span class="logo-text">Dashboard Internal Guru</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html" style="color: white;">← Kembali ke Beranda</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="dashboard-section" style="padding-top: 100px;">
+        
+        <!-- SECTION 1: Penilaian Mata Pelajaran -->
+        <div class="container" style="padding-bottom: 40px;">
+            <div class="dashboard-header" style="margin-bottom: 20px;">
+                <h2 style="font-size: 1.5rem;">Penilaian Mata Pelajaran</h2>
+            </div>
+            <p style="color: var(--text-muted); margin-top: -16px; margin-bottom: 24px;">Kumpulan nilai formatif, sumatif, dan tugas harian per mata pelajaran.</p>
+            <div class="drive-grid" id="penilaianGrid"></div>
+        </div>
+
+        <!-- SECTION 2: Perkembangan Siswa -->
+        <div class="container" style="margin-top: 20px; padding-bottom: 40px;">
+            <h2 style="margin-bottom: 8px; font-size: 1.5rem; border-top: 1px solid var(--border-color); padding-top: 40px;">
+                Perkembangan Siswa
+            </h2>
+            <p style="color: var(--text-muted); margin-bottom: 24px;">Link untuk nilai BK.</p>
+            <div class="drive-grid" id="perkembanganGrid"></div>
+        </div>
+
+        <!-- SECTION 3: Laporan Hasil Belajar -->
+        <div class="container" style="margin-top: 20px; padding-bottom: 40px;">
+            <h2 style="margin-bottom: 8px; font-size: 1.5rem; border-top: 1px solid var(--border-color); padding-top: 40px;">
+                Laporan Hasil Belajar
+            </h2>
+            <p style="color: var(--text-muted); margin-bottom: 24px;">Link unttuk rekap nilai akhir, leger, dan format e-Rapor.</p>
+            <div class="drive-grid" id="laporanGrid"></div>
+        </div>
+
+        <!-- SECTION 4: Sumatif -->
+        <div class="container" style="margin-top: 20px; padding-bottom: 60px;">
+            <h2 style="margin-bottom: 8px; font-size: 1.5rem; border-top: 1px solid var(--border-color); padding-top: 40px;">
+                Sumatif
+            </h2>
+            <p style="color: var(--text-muted); margin-bottom: 24px;">Link Kumpulan Nilai Sumatif Siswa.</p>
+            <div class="drive-grid" id="sumatifGrid"></div>
+        </div>
+
+    </main>
+
+    <!-- Script Khusus -->
+    <script src="script-private.js"></script>
+</body>
+</html>
