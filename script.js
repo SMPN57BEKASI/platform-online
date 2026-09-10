@@ -261,7 +261,7 @@ if (btnRuangGuru) {
         
         const password = prompt("Masukkan Password Khusus Guru");
 
-        if (password === "RGO57") {
+        if (password === "IBSIM57") {
             window.location.href = "guru-private-57.html";
 
         } else if (password !== null) {
