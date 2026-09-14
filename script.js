@@ -58,7 +58,7 @@ const driveLinks = [
         title: "Modul Ajar Informatika",
         description: "Modul ajar Informatika untuk kelas menengah pertama.",
         icon: "💻",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1n9VYO_TfU3Cxleifm3bKOkuKcXdYoRqb?usp=drive_link"
     },
     {
         category: "Perangkat Pembelajaran",
