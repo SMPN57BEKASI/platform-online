@@ -75,22 +75,22 @@ const laporanLinks = [
    ========================================= */
 const sumatifLinks = [
     {
-        title: "Sumatif Tengah Semester",
-        description: "Semester Ganjil dan Genap.",
+        title: "Nilai Sumatif Tengah Semester Kelas 7",
+        description: "Semester Ganjil",
         icon: "🎯",
-        url: "https://drive.google.com/drive/folders/1hvZx_LQEHT4Ym4bVu2fR96oJGdaZE502?usp=sharing"
+        url: "https://drive.google.com/drive/folders/1I2lHgoY3ZO6sbX1Olp2ucAgYnPZjSA0j?usp=sharing"
     },
     {
-        title: "Sumatif Akhir Semester",
+        title: "Nilai Sumatif Tengah Semester Kelas 8",
         description: "Semester Ganjil.",
         icon: "📝",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1h6LH3Yx4PKOkiCFburdJHAaRxPv1X1df?usp=sharing"
     },
     {
-        title: "Sumatif Akhir Tahun",
-        description: "Semester Genap",
+        title: "Nilai Sumatif Tengah Semester Kelas 9",
+        description: "Semester Ganjil",
         icon: "✅",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1x93zA4gqxHkTXHgDd7eTxXPs6sUMRZlw?usp=sharing"
     },
      {
         title: "Asesmen Sumatif Akhir Jenjang",
