@@ -78,7 +78,7 @@ const sumatifLinks = [
         title: "Sumatif Tengah Semester",
         description: "Semester Ganjil dan Genap.",
         icon: "🎯",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1hvZx_LQEHT4Ym4bVu2fR96oJGdaZE502?usp=sharing"
     },
     {
         title: "Sumatif Akhir Semester",
