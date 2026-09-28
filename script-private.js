@@ -19,6 +19,12 @@ const penilaianLinks = [
         description: "Penilaian Mata Pelajaran Kelas 9.",
         icon: "📋",
         url: "https://drive.google.com/drive/folders/1vaAOuWmVCf2S8Pd2qkXHKDFtNOCwOkv6?usp=sharing"
+    },
+   {
+        title: "KKTP MATA PELAJARAN",
+        description: "Penilaian Mata Pelajaran Kelas 9.",
+        icon: "📋",
+        url: "https://docs.google.com/spreadsheets/d/1LiFGeIjvKacuh1nqBkKf78J8tP247q_TBOgaQtwp3DI/edit?usp=sharing"
     }
 ];
 
