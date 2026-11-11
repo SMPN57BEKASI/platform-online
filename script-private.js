@@ -87,7 +87,7 @@ const sumatifLinks = [
         url: "https://drive.google.com/drive/folders/1WvAOFH-n-tdsVCVHLg78GgJ2-zbMaEp2?usp=sharing"
     },
     {
-        title: "Pembuatan Soal Sumatif Akhir Semester Kelas ",
+        title: "Pembuatan Soal Sumatif Akhir Semester Kelas 8",
         description: "Semester Ganjil.",
         icon: "📝",
         url: "https://drive.google.com/drive/folders/1Yfvx0M1QHFminPjze67iekSZ22oL1BgX?usp=sharing"
