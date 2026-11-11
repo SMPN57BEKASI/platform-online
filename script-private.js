@@ -81,28 +81,28 @@ const laporanLinks = [
    ========================================= */
 const sumatifLinks = [
     {
-        title: "Nilai Sumatif Tengah Semester Kelas 7",
+        title: "Pembuatan Soal Sumatif Akhir Semester Kelas 7",
         description: "Semester Ganjil",
         icon: "🎯",
-        url: "https://drive.google.com/drive/folders/1I2lHgoY3ZO6sbX1Olp2ucAgYnPZjSA0j?usp=sharing"
+        url: "https://drive.google.com/drive/folders/1WvAOFH-n-tdsVCVHLg78GgJ2-zbMaEp2?usp=sharing"
     },
     {
-        title: "Nilai Sumatif Tengah Semester Kelas 8",
+        title: "Pembuatan Soal Sumatif Akhir Semester Kelas ",
         description: "Semester Ganjil.",
         icon: "📝",
-        url: "https://drive.google.com/drive/folders/1h6LH3Yx4PKOkiCFburdJHAaRxPv1X1df?usp=sharing"
+        url: "https://drive.google.com/drive/folders/1Yfvx0M1QHFminPjze67iekSZ22oL1BgX?usp=sharing"
     },
     {
-        title: "Nilai Sumatif Tengah Semester Kelas 9",
+        title: "Pembuatan Soal Sumatif Akhir Semester Kelas 9",
         description: "Semester Ganjil",
         icon: "✅",
-        url: "https://drive.google.com/drive/folders/1x93zA4gqxHkTXHgDd7eTxXPs6sUMRZlw?usp=sharing"
+        url: "https://drive.google.com/drive/folders/1ogSnuKF6upFWHODvjXq97sYKAzVShKHL?usp=sharing"
     },
      {
-        title: "Asesmen Sumatif Akhir Jenjang",
-        description: "ASAJ Kelas 9.",
+        title: "Kartu Soal",
+        description: "PSAS GANJIL 2026-2027",
         icon: "📝",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1KQ5C7LouRoh8bcaPWP_ey0zIy0hmmhH4?usp=sharing"
     },
 ];
 
