@@ -16,77 +16,77 @@ const driveLinks = [
         title: "Modul Ajar Matematika",
         description: "Kumpulan modul ajar Matematika kelas 7, 8, dan 9 Kurikulum Merdeka.",
         icon: "📐",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1lH-gVP9V1ma4ynDl4lyOv4ROOalvl-O4?usp=sharing"
     },
     {
         category: "Perangkat Pembelajaran",
         title: "Modul Ajar Bahasa Indonesia",
         description: "Kumpulan modul ajar Bahasa Indonesia kelas 7, 8, dan 9 Kurikulum Merdeka.",
         icon: "🖋️",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1JAaCQZ_ByBgW7FJuTBlEVYpXT_TNTACb?usp=sharing"
     },
     {
         category: "Perangkat Pembelajaran",
         title: "Modul Ajar Bahasa Sunda",
         description: "Kumpulan modul ajar Bahasa Sunda kelas 7, 8, dan 9 Kurikulum Merdeka.",
         icon: "🎭",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1sg2rLLa8d0umpvbi-SY4s0s5LKftksj5?usp=sharing"
     },
     {
         category: "Perangkat Pembelajaran",
         title: "Modul Ajar Bahasa Inggris",
         description: "Kumpulan modul ajar Bahasa Inggris kelas 7, 8, dan 9 Kurikulum Merdeka.",
         icon: "🔡",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1VabBM1WyIzA_o9dRKLJdxPmCS5h3y3w0?usp=sharing"
     },
     {
         category: "Perangkat Pembelajaran",
         title: "Modul Ajar IPA",
         description: "Kumpulan modul ajar IPA kelas 7, 8, dan 9 Kurikulum Merdeka.",
         icon: "🧬",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1FjfTBlymeW0QEE75h49LSzy_sdor-7n6?usp=sharing"
     }, 
     {
         category: "Perangkat Pembelajaran",
         title: "Modul Ajar IPS",
         description: "Kumpulan modul ajar IPS kelas 7, 8, dan 9 Kurikulum Merdeka.",
         icon: "🗺️",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1EEwqQg0SUTLBbEX9_fhJfNtZNCnEOCkz?usp=sharing"
     },
     {
         category: "Perangkat Pembelajaran",
         title: "Modul Ajar Informatika",
         description: "Modul ajar Informatika untuk kelas menengah pertama.",
         icon: "💻",
-        url: "https://drive.google.com/drive/folders/1n9VYO_TfU3Cxleifm3bKOkuKcXdYoRqb?usp=drive_link"
+        url: "https://drive.google.com/drive/folders/1_3n-PAHoNXkKsYmbU1jFTtr6MwqUwGFT?usp=sharing"
     },
     {
         category: "Perangkat Pembelajaran",
         title: "Modul Ajar PABP",
         description: "Kumpulan modul ajar PABP kelas 7, 8, dan 9 Kurikulum Merdeka.",
         icon: "👳🏻‍♂️",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1u0TmZvHX9iRYQgDXBLmjcFFC6Llidh12?usp=sharing"
     },
     {
         category: "Perangkat Pembelajaran",
         title: "Modul Ajar Pendidikan Pancasila",
         description: "Kumpulan modul ajar Pendidikan Pancasila kelas 7, 8, dan 9 Kurikulum Merdeka.",
         icon: "⚖️",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1cdNmZV-NDGP9VVWW7DVUyF5O1nrT9IdN?usp=sharing"
     },
     {
         category: "Perangkat Pembelajaran",
         title: "Modul Ajar Seni Budaya",
         description: "Kumpulan modul ajar Seni Budaya kelas 7, 8, dan 9 Kurikulum Merdeka.",
         icon: "🎨",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1Sbo_sjuKF7c9xnxujiwoBW4SfZrvMzcf?usp=sharing"
     },
     {
         category: "Perangkat Pembelajaran",
         title: "Modul Ajar PJOK",
         description: "Kumpulan modul ajar PJOK kelas 7, 8, dan 9 Kurikulum Merdeka.",
         icon: "⚽",
-        url: ""
+        url: "https://drive.google.com/drive/folders/1KGCof9BrxIjYXNzOkynj8ZaIVrB_Znvl?usp=sharing"
     },
     {
         category: "Administrasi",
