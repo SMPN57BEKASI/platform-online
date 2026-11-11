@@ -111,7 +111,7 @@ const driveLinks = [
     },
     {
         category: "Penilaian",
-        title: "Kisi-kisi & Soal Ujian",
+        title: "Kisi-kisi & Soal Latihan",
         description: "Kumpulan soal Asesmen Sumatif Tengah dan Akhir Semester.",
         icon: "📝",
         url: "https://drive.google.com/drive/folders/1YSrNNbMn6z1OKPkLM63fEYykWsvNrLS6?usp=sharing"
